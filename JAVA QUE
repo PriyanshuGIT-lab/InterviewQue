@@ -1,0 +1,299 @@
+Program to find second largest element in a map-
+
+Program to find intersection of two arrays-Done
+-two foreach loops ,if elm==num sout the elm.
+
+Program to find the min length and max length strings in an array of strings.
+-just return arr is empty if the arr.lenght is 0 then check for minStr and maxStr from array by assuming both as arr[0]; then replace when got the maximun and minimum
+
+Find a peak element from an array , peak= no neighbour is greater than peak.
+
+Find peak element array in a map where all elements on the right are less than the peak element and the element on the right is a peak element always.
+-as it is given that last element is the peak already , so print it for the first then, use reverse loop ,and change the peak element if the assumePeak is < arr[i];
+
+How to upload a file using rest assured.
+-
+
+Programs to find max number from a map 
+-
+
+-
+
+find the longest substring from a string
+-
+
+
+Write a selenium program to find all products with 50 to 70 % discount in flipkart
+
+
+Code for finding the longest length of subsequent integers.
+-
+
+Explain your project
+
+Difference between Implicit and explicit waits. 
+Difference between get() and navigate(). 
+How do you resolve conflicts in your code(GitHub)?
+What is Stream API? 
+How do you access a method by 20 threads simultaneously? 
+What are the different parameters present in testNG test runner XML file.
+ Why do you need Maven? 
+ Explain String Builder. 
+ Write a program to find the even numbers in an array and store it in an Array. 
+ What workarounds to do when you send a text in a text field, but the text isnt visible?
+  How to create a connection to Db and execute query in automation scripts?
+   How do you generate reports of a test run? 
+   Suppose you have only one day to retest a code change and the code needs to be deployed to prod the same day, 
+how will you carry out the smoke/sanity testing?
+ Explain Defect Life cycle.
+____________________________________
+1. Explain framework and selenium related scenario based question
+
+Answer question
+Question 2
+
+2. Coding questions (prime no, maximum no in array, 2nd max in array, reverse the string
+1st round was technical interview. Most of the questions are based on java logical programming. 
+Also asked to explain project and scenario based question in selenium framework . 
+Overall interview process was okay
+What are the Challenges faced during automation
+
+
+
+
+If you're applying — here’s the kind of prep that actually matters:
+
+1. Come with 1 real bug story - one that hurt.
+
+Talk about a test you wrote that failed unexpectedly, how it impacted the release, and what you learned from fixing it.
+
+Hiring managers want to hear how you reacted when things didn’t work, not just when they did.
+
+2. Know what not to automate, and be ready to explain it.
+
+Everyone says, “I built a framework.”
+But can you explain which cases you skipped and why?
+That tells me whether you’re just automating blindly or actually thinking about value.
+
+3. Don’t say “Selenium + TestNG”, tell me what you added to make your suite better.
+
+- Did you add retry logic? Did you build a wrapper for flaky APIs?
+- Did you plug into Slack or set up auto-reporting on failure?
+- That’s what stands out, not the tools, but the thinking behind them.
+
+4. Be ready to whiteboard your test architecture.
+
+No, seriously. At Amazon, I’ve seen hiring managers hand over a marker and say: “Draw your current test setup.”
+
+If you can’t explain it, you probably didn’t build it.
+
+To work at the top tech companies, you don’t need a perfect resume. You need real stories.
+
+And you need to be able to explain your choices like someone who owns quality, not someone who just executes test plans.
+
+If you want honest feedback before applying, DM me.
+
+Happy to share what’s helped others crack it.
+
+P.S. I'm Raghvendra - a QA II at Amazon.
+Follow me for raw and real advice on QA, SDET, and engineering daily.
+Write a program to find common prefix. String arr[] = {"armstrong", "armor", "archer"}
+
+## 🟨 JAVA
+
+1. Find the largest and second largest elements in an array.
+2. Determine the most frequent character in a string, returning the alphabetically first in case of a tie.
+3. Reverse a string using recursion.
+4. Check if a string is a palindrome.
+5. Reverse a number.
+6. Generate a Fibonacci series.
+7. Difference between Abstract classes and Interfaces.
+8. Explain Inheritance, Polymorphism, and Encapsulation.
+9. Usage of ArrayList, HashMap, and HashSet.
+10. Differences between List, Set, and Map.
+11. Try-catch-finally usage; custom exceptions.
+12. Create threads using Runnable and Thread classes.
+13. Synchronization and thread safety.
+14. Java 8 features: Lambda expressions, Stream API.
+
+## 🟩 SQL
+
+1. SELECT with WHERE, ORDER BY, GROUP BY.
+2. JOIN operations: INNER, LEFT, RIGHT, FULL OUTER.
+3. Subqueries and nested queries.
+4. Window functions.
+5. INSERT, UPDATE, DELETE operations.
+6. Transactions and ACID properties.
+7. Normalization and denormalization.
+8. Primary keys, foreign keys, indexes.
+9. Query optimization techniques.
+10. Writing test cases for database validation.
+11. Data migration and ETL.
+
+## 🟧 POSTMAN (API Testing)
+
+1. Sending basic API requests (GET, POST, PUT, DELETE).
+2. Using Pre-request Scripts and Tests.
+3. Environment and global variables.
+4. Collection Runner and Newman for automation.
+5. Authentication (OAuth 2.0, Bearer tokens, API keys).
+6. Validating status codes, response times.
+7. Handling timeouts and retries.
+8. Mock servers and monitoring.
+9. API testing in mobile/web app scenarios.
+
+## 🟦 SELENIUM
+
+1. Launch browsers and navigate to URLs.
+2. Locate elements using ID, Name, XPath, CSS.
+3. Handle dropdowns, alerts, frames.
+4. Perform drag-and-drop, hover actions.
+5. Implicit, Explicit, and FluentWait.
+6. Page Object Model (POM).
+7. Data-driven and keyword-driven frameworks.
+8. Integrate with TestNG.
+9. ExtentReports for reporting.
+10. Selenium Grid setup.
+11. Parallel test execution.
+12. Handling dynamic elements, CAPTCHA, file uploads.
+
+## 🟫 TESTNG
+
+1. Annotations: @Test, @BeforeMethod, @AfterMethod, @BeforeClass, @AfterClass.
+2. testng.xml usage: grouping, parameterization.
+3. Prioritization and dependency handling.
+4. SoftAssert vs HardAssert.
+5. HTML/XML reporting.
+6. Parallel execution with thread count.
+7. DataProvider for data-driven testing.
+8. Implement ITestListener and ISuiteListener.
+
+## 🟪 INTERVIEW QUESTIONS
+
+1. Real-time SDET and QA questions.
+2. Automation strategies and frameworks.
+3. Java + Selenium + TestNG + Postman integration.
+4. Rooter and Wingify (VWO) interview scenarios.
+5. JMeter and performance testing basics.
+6. Writing test cases, bug lifecycle.
+7. Resume tailoring and career transitions.
+8. CI/CD with Jenkins, GitHub.
+9. Behavioral questions and communication.
+10. QA to Project Manager transition guidance.
+
+
+. All Java concepts Coding round 
+Program to count duplicate word from given sentence in Java Java concepts Encapsulation Abstraction Framework related questions Difference between inheritance and interface Difference between collection and collections Diffrent types of exceptions
+Write a program to find common prefix. String arr[] = {"armstrong", "armor", "archer"}
+Q1. All API related questions: 
+Difference between post and put and patch What is Java dependency injection Hypervisor layer in rest api Write automation to create given payload object Automate one post api Hit same post api 5 times and find which one gave fastest response via automation Salary expectation was also asked
+Q1. Coding questions of java 
+1.balanced parenthesis program 
+2.Find no of occurrence of each character in a string
+3.Count frequency of characters in a string
+
+Reverse a string without using built-in methods
+
+Check if a string is a palindrome
+
+Find the first non-repeated character in a string
+
+Remove duplicate characters from a string
+
+Check if two strings are anagrams
+
+Sort an array without using built-in sort method
+
+Find second highest number in an array
+-int first and second , check if the first is smaller than elm then first=elm; then check first!=elm &&second<elm> thewn second=elm;
+
+Count vowels and consonants in a string
+
+
+
+Find occurrence of a word in a sentence
+
+Reverse each word in a sentence
+
+Find duplicates in an array using HashMap
+
+Find factorial using recursion
+
+Fibonacci series using iteration and recursion
+
+Write a singleton class
+
+Read and write data from Excel using Apache POI
+
+Read a file and count word frequency
+
+Write a program to implement custom exception handling
+class Myexception extends Exceptions{
+    Myexception(String message){
+        super(message);
+    }
+}
+
+Implement a basic calculator using switch case
+
+Convert a list to a map with index as key
+
+1 Tell me something about yourself 
+2 What is the final keyword in Java
+3 What is a constructor ? Can we override a constructor
+4 What is abstraction
+5 How to achieve multiple abstraction in Java
+6 What is an interface
+7 What is polymorphism ? Where have you applied it in your framework
+8 What is method overloading and method overriding ? Explain both and where you used them in your framework
+9 What is memory management in Java
+10 Difference between constructor overloading and method overloading
+11 What are exceptions in Java
+12 List some exceptions you faced during automation and how you handle them
+13 How do you handle dynamic web elements
+14 Write the syntax of the Select class and explain its methods
+15 How do you handle iFrames
+16 How do you handle mouse actions in Selenium
+17 How do you handle keyboard actions in Selenium
+18 How do you press the ENTER key using the Actions class ?Write the syntax
+19 How do you use the SHIFT key to type uppercase letters in Selenium? Write the syntax
+20 How to handle dynamic elements
+21 How to print all the links from a webpage ?Where do you store those links
+22 How to check for broken links ?How would you validate each link if there are 20 links in web page
+23 What is finally block in Java
+2 Difference between throw and throws
+24 Difference between findElement and findElements
+25 Explain your framework Structure? How do you perform parallel execution in your framework
+26 What are your cucumber options
+27 If you join a new project, what git commands do you use from start to end? What are the stages you follow
+28 Do you have any idea about SQL ? Tell me few queries you performed ?
+29 Do you have any idea Linux commands ?
+30 You have 3 frames(Frame A, Frame B, Frame C).After clicking Frame C, the application opens another tab containing a login, password, and sign-in function ? Write the Selenium automation script for this scenario ?
+ How can you automate CAPTCHA using Selenium?
+  What is the difference between hard and soft assertions?
+
+
+---------------
+___________________________________________________________________
+<!-- Sort a map by value without using inbuilt methods -->
+𝗪𝗵𝗲𝗿𝗲 𝗵𝗮𝘃𝗲 𝘆𝗼𝘂 𝘂𝘀𝗲𝗱 𝗢𝘃𝗲𝗿𝗿𝗶𝗱𝗶𝗻𝗴, 𝗢𝘃𝗲𝗿𝗹𝗼𝗮𝗱𝗶𝗻𝗴, 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲, 𝗔𝗯𝘀𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗧𝗲𝘀𝘁 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸?
+
+This is a common Java-based test automation interview question, yet many struggle to answer it with real project examples. Let’s break it down with practical use cases 👇
+
+1. 𝗠𝗲𝘁𝗵𝗼𝗱 𝗢𝘃𝗲𝗿𝗿𝗶𝗱𝗶𝗻𝗴
+Used in BaseTest or Listeners to override onTestFailure, setup, or teardown behavior.
+
+2. 𝗠𝗲𝘁𝗵𝗼𝗱 𝗢𝘃𝗲𝗿𝗹𝗼𝗮𝗱𝗶𝗻𝗴
+In utilities like waitForElement(WebElement) vs waitForElement(WebElement, int timeout).
+
+3. 𝗜𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲 𝗨𝘀𝗮𝗴𝗲
+Interfaces like DriverManager, Logger, DataProvider help build loosely coupled components.
+
+4. 𝗔𝗯𝘀𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻
+BaseTest, BasePage, and utility managers abstract common setup/driver handling logic.
+
+5. 𝗚𝗲𝗻𝗲𝗿𝗶𝗰𝘀
+Response or ExcelReader enables handling of dynamic data structures with type safety.
+
+6. 𝗘𝗻𝘂𝗺𝘀
+To manage constants like browser types, environment, or test status in a clean, maintainable way.
